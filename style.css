@@ -1,0 +1,14 @@
+.head{
+    font-size: 30px;
+    padding: 30px;
+    text-align: center;
+}
+.button {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(150, 238, 138);
+    color: white;
+    text-align: center;
+  }
